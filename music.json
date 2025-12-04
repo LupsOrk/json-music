@@ -17,8 +17,8 @@
     "id": 3, 
     "title": "My Pop Song", 
     "artist": "Artist A", 
-    "audio_url": "", 
-    "album_art": "" 
+    "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764881464/MAHALINI_-_SIAL_OFFICIAL_MUSIC_VIDEO_phoqzi.mp3", 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764881224/Screenshot_2025-12-05_034612_apvwij.png" 
   }, 
   { 
     "id": 4, 
