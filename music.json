@@ -38,15 +38,15 @@
     "id": 6, 
     "title": "Bertaut", 
     "artist": "Nadin Amizah", 
-    "audio_url": "", 
-    "album_art": "" 
+    "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764884342/Nadin_Amizah_-_Bertaut_Official_Music_Video_prkapi.mp3", 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764884019/Screenshot_2025-12-05_043311_hxzqlz.png" 
   },  
   { 
     "id": 7, 
     "title": "Cintanya Aku", 
     "artist": "Arsy Widianto & Tiara Andini", 
-    "audio_url": "", 
-    "album_art": "" 
+    "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764884747/Tiara_Andini_Arsy_Widianto_-_Cintanya_Aku_Official_Music_Video_tpp5wq.mp3", 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764884751/Screenshot_2025-12-05_044347_av98vz.png" 
   },
   { 
     "id": 8, 
