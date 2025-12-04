@@ -13,46 +13,5 @@
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764879641/TULUS_-_Hati-Hati_di_Jalan_Official_Lyric_Video_qyq8sw.mp3", 
     "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764879654/maxresdefault_buxwve.jpg" 
   } 
-  { 
-    "id": 3, 
-    "title": "My Pop Song", 
-    "artist": "Artist A", 
-    "audio_url": "", 
-    "album_art": "" 
-  } 
-  { 
-    "id": 4, 
-    "title": "My Pop Song", 
-    "artist": "Artist A", 
-    "audio_url": "", 
-    "album_art": "" 
-  } 
-  { 
-    "id": 5, 
-    "title": "My Pop Song", 
-    "artist": "Artist A", 
-    "audio_url": "", 
-    "album_art": "" 
-  } 
-  { 
-    "id": 6, 
-    "title": "My Pop Song", 
-    "artist": "Artist A", 
-    "audio_url": "", 
-    "album_art": "" 
-  }  
-  { 
-    "id": 7, 
-    "title": "My Pop Song", 
-    "artist": "Artist A", 
-    "audio_url": "", 
-    "album_art": "" 
-  } 
-  { 
-    "id": 8, 
-    "title": "My Pop Song", 
-    "artist": "Artist A", 
-    "audio_url": "", 
-    "album_art": "" 
-  } 
+  
 ]
