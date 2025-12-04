@@ -22,43 +22,176 @@
   }, 
   { 
     "id": 4, 
-    "title": "My Pop Sonssssadwg", 
-    "artist": "Artist A", 
-    "audio_url": "", 
-    "album_art": "" 
+    "title": "Pesan Terakhir", 
+    "artist": "Lyodra", 
+    "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764882792/Lyodra_-_Pesan_Terakhir_Official_Music_Video_lvgw1p.mp3", 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764882628/Screenshot_2025-12-05_040952_sdbft0.png" 
   }, 
   { 
     "id": 5, 
-    "title": "My Pop Song", 
-    "artist": "Artist A", 
-    "audio_url": "", 
-    "album_art": "" 
+    "title": "It’s Only Me", 
+    "artist": "Kaleb J", 
+    "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764883094/Kaleb_J_-_It_s_Only_Me_Official_Lyric_Video_English_Sub_CC_fsqwj4.mp3", 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764883126/Screenshot_2025-12-05_041635_sjcj2h.png" 
   }, 
   { 
     "id": 6, 
-    "title": "My Pop Song", 
-    "artist": "Artist A", 
+    "title": "Bertaut", 
+    "artist": "Nadin Amizah", 
     "audio_url": "", 
     "album_art": "" 
   },  
   { 
     "id": 7, 
-    "title": "My Pop Song", 
-    "artist": "Artist A", 
+    "title": "Cintanya Aku", 
+    "artist": "Arsy Widianto & Tiara Andini", 
     "audio_url": "", 
     "album_art": "" 
   },
   { 
     "id": 8, 
-    "title": "My Pop Song", 
-    "artist": "Artist A", 
+    "title": "Merasa Indah", 
+    "artist": "Tiara Andini", 
     "audio_url": "", 
     "album_art": "" 
   },
   { 
     "id": 9, 
-    "title": "My Pop Song", 
-    "artist": "Artist A", 
+    "title": "Ragu", 
+    "artist": "Rizky Febian", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 10, 
+    "title": "Bertahan Terluka", 
+    "artist": "Fabio Asher", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 11, 
+    "title": "Peri Cintaku", 
+    "artist": "Ziva Magnolya", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 12, 
+    "title": "Tak Ingin Usai", 
+    "artist": "Keisya Levronka", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 13, 
+    "title": "Amin Paling Serius", 
+    "artist": "Sal Priadi", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 14, 
+    "title": "Blue Jeans", 
+    "artist": "Gangga", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 15, 
+    "title": "Anything You Want", 
+    "artist": "Reality Club", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 16, 
+    "title": "Secukupnya", 
+    "artist": "Hindia", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 17, 
+    "title": "Tanpa Tanda Tangan", 
+    "artist": "Juicy Luicy", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 18, 
+    "title": "Berisik", 
+    "artist": "Dere", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 19, 
+    "title": "Dunia Tipu-Tipu", 
+    "artist": "Yura Yunita", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 20, 
+    "title": "Kumau Dia", 
+    "artist": "Andmesh", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 21, 
+    "title": "Siapkah Kau 'Tuk Jatuh Cinta Lagi", 
+    "artist": "HIVI!", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 22, 
+    "title": "To The Bone", 
+    "artist": "Pamungkas", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 23, 
+    "title": "Muak", 
+    "artist": "Aruma", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 24, 
+    "title": "Selalu Bersamamu", 
+    "artist": "Vierratale", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 25, 
+    "title": "C.H.R.I.S.Y.E", 
+    "artist": "Diskoria, Laleilmanino & Eva Celia", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 26, 
+    "title": "Penjaga Hati", 
+    "artist": "Nadhif Basalamah", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 27, 
+    "title": "Teman Bahagia", 
+    "artist": "Jaz", 
+    "audio_url": "", 
+    "album_art": "" 
+  },
+  { 
+    "id": 28, 
+    "title": "Rehat", 
+    "artist": "Kunto Aji", 
     "audio_url": "", 
     "album_art": "" 
   }
