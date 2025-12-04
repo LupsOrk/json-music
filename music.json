@@ -1,9 +1,58 @@
 [ 
   { 
     "id": 1, 
-    "title": "My Pop Song", 
-    "artist": "Artist A", 
+    "title": "Bergema Sampai Selamanya", 
+    "artist": "Nadhif Basalamah", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764856897/Nadhif_Basalamah_-_bergema_sampai_selamanya_Official_Lyric_Video_bgnpaw.mp3", 
     "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764860766/bergemasampaiselamanya_nnta5z.jpg" 
+  } 
+  { 
+    "id": 2, 
+    "title": "Hati-Hati di Jalan", 
+    "artist": "Tulus", 
+    "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764879641/TULUS_-_Hati-Hati_di_Jalan_Official_Lyric_Video_qyq8sw.mp3", 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764879654/maxresdefault_buxwve.jpg" 
+  } 
+  { 
+    "id": 3, 
+    "title": "My Pop Song", 
+    "artist": "Artist A", 
+    "audio_url": "", 
+    "album_art": "" 
+  } 
+  { 
+    "id": 4, 
+    "title": "My Pop Song", 
+    "artist": "Artist A", 
+    "audio_url": "", 
+    "album_art": "" 
+  } 
+  { 
+    "id": 5, 
+    "title": "My Pop Song", 
+    "artist": "Artist A", 
+    "audio_url": "", 
+    "album_art": "" 
+  } 
+  { 
+    "id": 6, 
+    "title": "My Pop Song", 
+    "artist": "Artist A", 
+    "audio_url": "", 
+    "album_art": "" 
+  }  
+  { 
+    "id": 7, 
+    "title": "My Pop Song", 
+    "artist": "Artist A", 
+    "audio_url": "", 
+    "album_art": "" 
+  } 
+  { 
+    "id": 8, 
+    "title": "My Pop Song", 
+    "artist": "Artist A", 
+    "audio_url": "", 
+    "album_art": "" 
   } 
 ]
