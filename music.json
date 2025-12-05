@@ -5,13 +5,6 @@
     "artist": "Nadhif Basalamah", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764856897/Nadhif_Basalamah_-_bergema_sampai_selamanya_Official_Lyric_Video_bgnpaw.mp3", 
     "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764860766/bergemasampaiselamanya_nnta5z.jpg",
-    "lyrics": [
-      { "time": "00:00", "text": "Baris pertama lirik" },
-      { "time": "00:05", "text": "Baris kedua lirik" },
-      { "time": "00:11", "text": "Baris ketiga lirik" },
-      { "time": "00:18", "text": "Baris keempat lirik" },
-      { "time": "00:25", "text": "Baris kelima lirik" }
-    ]
   }, 
   { 
     "id": 2, 
