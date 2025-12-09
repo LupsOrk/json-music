@@ -1,0 +1,37 @@
+[
+  {
+    "artist": "Artist A",
+    "title": "Song Title",
+    "displayName": "Artist A - Song Title.mp3",
+    "album": "Album A",
+    "relativePath": "/Music/",
+    "absolutePath": "/storage/emulated/0/Music/songA.mp3",
+    "albumArt": "content://media/external/audio/albumart/123",
+    "year": 2022,
+    "track": 1,
+    "startFrom": 0,
+    "dateAdded": 17000000,
+    "id": 123,
+    "duration": 210000,
+    "albumId": 13
+  },
+  [
+  {
+    "artist": "Artist A",
+    "title": "Song Title",
+    "displayName": "Artist A - Song Title.mp3",
+    "album": "Album A",
+    "relativePath": "/Music/",
+    "absolutePath": "/storage/emulated/0/Music/songA.mp3",
+    "albumArt": "content://media/external/audio/albumart/123",
+    "year": 2022,
+    "track": 1,
+    "startFrom": 0,
+    "dateAdded": 17000000,
+    "id": 123,
+    "duration": 210000,
+    "albumId": 13
+  }
+]
+
+]
