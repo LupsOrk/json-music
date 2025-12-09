@@ -1,37 +1,33 @@
 [
   {
-    "artist": "Artist A",
-    "title": "Song Title",
-    "displayName": "Artist A - Song Title.mp3",
-    "album": "Album A",
-    "relativePath": "/Music/",
-    "absolutePath": "/storage/emulated/0/Music/songA.mp3",
-    "albumArt": "content://media/external/audio/albumart/123",
-    "year": 2022,
+    "artist": "Nadhif Basalamah",
+    "title": "Bergema Sampai Selamanya",
+    "displayName": "Nadhif - Bergema.mp3",
+    "album": "Single 2024",
+    "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764856897/Nadhif_Basalamah_-_bergema_sampai_selamanya_Official_Lyric_Video_bgnpaw.mp3",
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764860766/bergemasampaiselamanya_nnta5z.jpg",
+    "year": 2024,
     "track": 1,
     "startFrom": 0,
     "dateAdded": 17000000,
-    "id": 123,
+    "id": 1,
     "duration": 210000,
-    "albumId": 13
+    "albumId": 11
   },
-  [
   {
-    "artist": "Artist A",
-    "title": "Song Title",
-    "displayName": "Artist A - Song Title.mp3",
-    "album": "Album A",
-    "relativePath": "/Music/",
-    "absolutePath": "/storage/emulated/0/Music/songA.mp3",
-    "albumArt": "content://media/external/audio/albumart/123",
-    "year": 2022,
+    "artist": "Nadhif Basalamah",
+    "title": "Bergema Sampai Selamanya",
+    "displayName": "Nadhif - Bergema.mp3",
+    "album": "Single 2024",
+    "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764856897/Nadhif_Basalamah_-_bergema_sampai_selamanya_Official_Lyric_Video_bgnpaw.mp3",
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764860766/bergemasampaiselamanya_nnta5z.jpg",
+    "year": 2024,
     "track": 1,
     "startFrom": 0,
     "dateAdded": 17000000,
-    "id": 123,
+    "id": 1,
     "duration": 210000,
-    "albumId": 13
+    "albumId": 11
   }
 ]
 
-]
