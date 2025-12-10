@@ -4,195 +4,223 @@
     "title": "Bergema Sampai Selamanya", 
     "artist": "Nadhif Basalamah", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764856897/Nadhif_Basalamah_-_bergema_sampai_selamanya_Official_Lyric_Video_bgnpaw.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764860766/bergemasampaiselamanya_nnta5z.jpg"
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764860766/bergemasampaiselamanya_nnta5z.jpg",
+    "album": "Nadhif Basalamah Album"
   }, 
   { 
     "id": 2, 
     "title": "Hati-Hati di Jalan", 
     "artist": "Tulus", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764879641/TULUS_-_Hati-Hati_di_Jalan_Official_Lyric_Video_qyq8sw.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764879654/maxresdefault_buxwve.jpg" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764879654/maxresdefault_buxwve.jpg",
+    "album": "Tulus Album"
   },
   { 
     "id": 3, 
     "title": "Sial", 
     "artist": "Mahalini", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764881464/MAHALINI_-_SIAL_OFFICIAL_MUSIC_VIDEO_phoqzi.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764881224/Screenshot_2025-12-05_034612_apvwij.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764881224/Screenshot_2025-12-05_034612_apvwij.png",
+    "album": "Mahalini Album" 
   }, 
   { 
     "id": 4, 
     "title": "Pesan Terakhir", 
     "artist": "Lyodra", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764882792/Lyodra_-_Pesan_Terakhir_Official_Music_Video_lvgw1p.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764882628/Screenshot_2025-12-05_040952_sdbft0.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764882628/Screenshot_2025-12-05_040952_sdbft0.png",
+    "album": "Lyodra Album"
   }, 
   { 
     "id": 5, 
     "title": "It’s Only Me", 
     "artist": "Kaleb J", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764883094/Kaleb_J_-_It_s_Only_Me_Official_Lyric_Video_English_Sub_CC_fsqwj4.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764883126/Screenshot_2025-12-05_041635_sjcj2h.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764883126/Screenshot_2025-12-05_041635_sjcj2h.png",
+    "album": "Kaleb J Album"
   }, 
   { 
     "id": 6, 
     "title": "Bertaut", 
     "artist": "Nadin Amizah", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764884342/Nadin_Amizah_-_Bertaut_Official_Music_Video_prkapi.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764884019/Screenshot_2025-12-05_043311_hxzqlz.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764884019/Screenshot_2025-12-05_043311_hxzqlz.png",
+    "album": "Nadin Amizah Album"
   },  
   { 
     "id": 7, 
     "title": "Cintanya Aku", 
     "artist": "Arsy Widianto & Tiara Andini", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764884747/Tiara_Andini_Arsy_Widianto_-_Cintanya_Aku_Official_Music_Video_tpp5wq.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764884751/Screenshot_2025-12-05_044347_av98vz.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764884751/Screenshot_2025-12-05_044347_av98vz.png",
+    "album": "Arsy Widianto & Tiara Andini Album"
   },
   { 
     "id": 8, 
     "title": "Merasa Indah", 
     "artist": "Tiara Andini", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764919444/Tiara_Andini_-_Merasa_Indah_Lirik_Lagu_Indonesia_jfpoyx.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764919327/Screenshot_2025-12-05_142145_lvl7gw.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764919327/Screenshot_2025-12-05_142145_lvl7gw.png",
+    "album": "Tiara Andini Album"
   },
   { 
     "id": 9, 
     "title": "Ragu", 
     "artist": "Rizky Febian", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764919915/Rizky_Febian_-_Ragu_Official_Music_Video_b206i2.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764919907/Screenshot_2025-12-05_143118_nknncv.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764919907/Screenshot_2025-12-05_143118_nknncv.png",
+    "album": "Rizky Febian Album"
   },
   { 
     "id": 10, 
     "title": "Bertahan Terluka", 
     "artist": "Fabio Asher", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764920111/FABIO_ASHER_-_BERTAHAN_TERLUKA_OFFICIAL_MUSIC_VIDEO_q2f9cn.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764920078/Screenshot_2025-12-05_143427_izdk95.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764920078/Screenshot_2025-12-05_143427_izdk95.png",
+    "album": "Fabio Asher Album"
   },
   { 
     "id": 11, 
     "title": "Peri Cintaku", 
     "artist": "Ziva Magnolya", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764920287/Ziva_Magnolya_-_Peri_Cintaku_Lirik_Lagu_Indonesia_ihqmke.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764920281/Screenshot_2025-12-05_143651_pka90k.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764920281/Screenshot_2025-12-05_143651_pka90k.png",
+    "album": "Ziva Magnolya Album"
   },
   { 
     "id": 12, 
     "title": "Tak Ingin Usai", 
     "artist": "Keisya Levronka", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764920444/Keisya_Levronka_-_Tak_Ingin_Usai_Lyrics_u0u2jn.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764920442/Screenshot_2025-12-05_143939_ispnec.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764920442/Screenshot_2025-12-05_143939_ispnec.png",
+    "album": "Keisya Levronka Album"
   },
   { 
     "id": 13, 
     "title": "Amin Paling Serius", 
     "artist": "Nadin Amizah & Sal Priadi", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764920597/Amin_Paling_Serius_-_Nadin_Amizah_Sal_Priadi_Lirik_video_d72j8h.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764920594/Screenshot_2025-12-05_144219_sjcucl.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764920594/Screenshot_2025-12-05_144219_sjcucl.png",
+    "album": "Nadin Amizah & Sal Priadi Album"
   },
   { 
     "id": 14, 
     "title": "Blue Jeans", 
     "artist": "Gangga", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764920733/GANGGA_-_Blue_Jeans_Lyrics_Best_Version_Have_I_told_you_lately_that_I_miss_you_badly_mbkbo6.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764920731/Screenshot_2025-12-05_144433_ucqmss.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764920731/Screenshot_2025-12-05_144433_ucqmss.png",
+    "album": "Gangga Album"
   },
   { 
     "id": 15, 
     "title": "Anything You Want", 
     "artist": "Reality Club", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764921000/Reality_Club_-_Anything_You_Want_Lyrics_iOQEJUw2NlE_gxoxhj.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764920936/Screenshot_2025-12-05_144736_goz4fu.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764920936/Screenshot_2025-12-05_144736_goz4fu.png",
+    "album": "Reality Club Album"
   },
   { 
     "id": 16, 
     "title": "Secukupnya", 
     "artist": "Hindia", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764921234/Hindia_-_Secukupnya_Official_Lyric_Commentary_Video_fwpntn.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764921150/Screenshot_2025-12-05_145141_ixwede.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764921150/Screenshot_2025-12-05_145141_ixwede.png",
+    "album": "Hindia Album"
   },
   { 
     "id": 17, 
     "title": "Tanpa Tergesa", 
     "artist": "Juicy Luicy", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764921465/Juicy_Luicy_-_Tanpa_Tergesa_Official_Music_Video_zm9po8.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764921377/Screenshot_2025-12-05_145511_mxtmm0.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764921377/Screenshot_2025-12-05_145511_mxtmm0.png",
+    "album": "Juicy Luicy Album"
   },
   { 
     "id": 18, 
     "title": "Berisik", 
     "artist": "Dere", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764921682/Dere_Berisik_Official_Music_Video_t4zjib.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764921680/Screenshot_2025-12-05_145745_f8giek.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764921680/Screenshot_2025-12-05_145745_f8giek.png",
+    "album": "Dere Album"
   },
   { 
     "id": 19, 
     "title": "Dunia Tipu-Tipu", 
     "artist": "Yura Yunita", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764921856/Yura_Yunita_-_Dunia_Tipu-Tipu_Official_Music_Video_a7tg1t.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764921853/Screenshot_2025-12-05_150320_i8ar8o.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764921853/Screenshot_2025-12-05_150320_i8ar8o.png",
+    "album": "Yura Yunita Album"
   },
   { 
     "id": 20, 
     "title": "Kumau Dia", 
     "artist": "Andmesh", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764922035/Andmesh_-_Kumau_Dia_Official_Music_Video_kdzuzz.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764921993/Screenshot_2025-12-05_150559_iuhz3w.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764921993/Screenshot_2025-12-05_150559_iuhz3w.png",
+    "album": "Andmesh Album"
   },
   { 
     "id": 21, 
     "title": "Siapkah Kau 'Tuk Jatuh Cinta Lagi", 
     "artist": "HIVI!", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764922137/HIVI_-_Siapkah_Kau_Tuk_Jatuh_Cinta_Lagi_Official_Lyric_Video_q5pwy7.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764922133/Screenshot_2025-12-05_150802_ung1lk.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764922133/Screenshot_2025-12-05_150802_ung1lk.png",
+    "album": "HIVI! Album"
   },
   { 
     "id": 22, 
     "title": "To The Bone", 
     "artist": "Pamungkas", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764922242/Pamungkas_-_To_The_Bone_Official_Music_Video_gsmhhl.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764922231/Screenshot_2025-12-05_150951_isd5vj.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764922231/Screenshot_2025-12-05_150951_isd5vj.png",
+    "album": "Pamungkas Album"
   },
   { 
     "id": 23, 
     "title": "Muak", 
     "artist": "Aruma", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764922381/Aruma_-_Muak_Official_Music_Video_er2lka.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764922377/Screenshot_2025-12-05_151222_hhl566.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764922377/Screenshot_2025-12-05_151222_hhl566.png",
+    "album": "Aruma Album"
   },
   { 
     "id": 24, 
     "title": "Bersamamu", 
     "artist": "Vierra", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764922536/Vierra_-_Bersamamu_Official_Music_Video_mvkwo3.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764922532/Screenshot_2025-12-05_151457_dzw2oy.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764922532/Screenshot_2025-12-05_151457_dzw2oy.png",
+    "album": "Vierra Album"
   },
   { 
     "id": 25, 
     "title": "C.H.R.I.S.Y.E", 
     "artist": "Diskoria, Laleilmanino & Eva Celia", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764922676/Diskoria_Laleilmanino_Eva_Celia_C.H.R.I.S.Y.E._Official_Music_Video_e7ehql.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764922673/Screenshot_2025-12-05_151653_gtvwcf.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764922673/Screenshot_2025-12-05_151653_gtvwcf.png",
+    "album": "Diskoria, Laleilmanino & Eva Celia Album"
   },
   { 
     "id": 26, 
     "title": "Penjaga Hati", 
     "artist": "Nadhif Basalamah", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764922796/nadhif_basalamah_-_penjaga_hati_Official_Music_Video_ht4pvo.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764922792/Screenshot_2025-12-05_151910_rpu5u0.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764922792/Screenshot_2025-12-05_151910_rpu5u0.png",
+    "album": "Nadhif Basalamah Album"
   },
   { 
     "id": 27, 
     "title": "Teman Bahagia", 
     "artist": "Jaz", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764922915/Jaz_-_Teman_Bahagia_Official_Music_Video_hu7kio.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764922911/Screenshot_2025-12-05_152113_rxiano.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764922911/Screenshot_2025-12-05_152113_rxiano.png",
+    "album": "Jaz Album"
   },
   { 
     "id": 28, 
     "title": "Rehat", 
     "artist": "Kunto Aji", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1764923013/Kunto_Aji_-_Rehat_Official_Music_Video_pkdjhz.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764923009/Screenshot_2025-12-05_152253_zddyg9.png" 
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1764923009/Screenshot_2025-12-05_152253_zddyg9.png",
+    "album": "Kunto Aji Album"
   }
 ]
