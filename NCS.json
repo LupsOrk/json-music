@@ -1,82 +1,82 @@
 [ 
   { 
     "id": 1, 
-    "title": "NCS1", 
-    "artist": "NCS1", 
+    "title": "H.A.Y", 
+    "artist": "Clarx", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1765974914/Clarx_-_H.A.Y_Future_House_NCS_-_Copyright_Free_Music_occiwb.mp3", 
-    "album_art": "https://res.cloudinary.com/dtonxd82r/video/upload/v1765974914/Clarx_-_H.A.Y_Future_House_NCS_-_Copyright_Free_Music_occiwb.mp3",
-    "album": "NCS"
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1766572533/Clarx_-_H.A.Y_Future_House_NCS_qsj43r.png",
+    "album": "Clarx"
   }, 
   { 
     "id": 2, 
-    "title": "NCS2", 
-    "artist": "NCS2", 
+    "title": "feat. Daniel Levi", 
+    "artist": "Cartoon, Jéja - On & On", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1765974905/Cartoon_J%C3%A9ja_-_On_On_feat._Daniel_Levi_Electronic_Pop_NCS_-_Copyright_Free_Music_u16v0b.mp3", 
-    "album_art": "",
-    "album": "NCS"
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1766572936/p2_jaxjzn.png",
+    "album": "Cartoon, Jéja - On & On"
   },
   { 
     "id": 3, 
-    "title": "NCS3", 
-    "artist": "NCS3", 
+    "title": "1 Hour New Chill Music Mix", 
+    "artist": "MIX", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1765974865/1_HOUR_Top_NoCopyRightSounds_NCS_Most_Viral_Songs_2019_1_Hour_New_Chill_Music_Mix_96hyQ6bt-b8_ltmvx2.mp3", 
-    "album_art": "",
-    "album": "NCS"
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1766573135/p3_dqrwoj.png",
+    "album": "MIX"
   }, 
   { 
     "id": 4, 
-    "title": "NCS4", 
-    "artist": "NCS4", 
+    "title": "EDM - 1 Hour MIX", 
+    "artist": "MIX", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1765974851/EDM_-_1_Hour_MIX___NCS_-_Copyright_Free_Music_MEkaqZecpUQ_wkjzn1.mp3", 
-    "album_art": "",
-    "album": "NCS"
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1766573231/p4_jotggk.png",
+    "album": "MIX"
   },
   { 
     "id": 5, 
-    "title": "NCS5", 
-    "artist": "NCS5", 
+    "title": "Invincible", 
+    "artist": "Deaf Kev", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1765974837/DEAF_KEV_-_Invincible_Glitch_Hop_NCS_-_Copyright_Free_Music_wi00uk.mp3", 
-    "album_art": "",
-    "album": "NCS"
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1766573430/p5_cds2z7.png",
+    "album": "Deaf Kev"
   }, 
   { 
     "id": 6, 
-    "title": "NCS6", 
-    "artist": "NCS6", 
+    "title": "Fearless", 
+    "artist": "Lost Sky", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1765974836/Lost_Sky_-_Fearless_Trap_NCS_-_Copyright_Free_Music_sro9ok.mp3", 
-    "album_art": "",
-    "album": "NCS"
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1766573496/p6_mjthke.png",
+    "album": "Lost Sky"
   },
   { 
     "id": 7, 
-    "title": "NCS7", 
-    "artist": "NCS7", 
+    "title": "Fearless Part II", 
+    "artist": "Lost Sky", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1765974835/Lost_Sky_-_Fearless_pt.II_feat._Chris_Linton_Trap_NCS_-_Copyright_Free_Music_s1y69h.mp3", 
-    "album_art": "",
-    "album": "NCS"
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1766573591/p7_alxacz.png",
+    "album": "Lost Sky"
   }, 
   { 
     "id": 8, 
-    "title": "NCS8", 
-    "artist": "NCS8", 
+    "title": "Time Future House", 
+    "artist": "OVSKY", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1765974834/OVSKY_-_Time_Future_House_NCS_-_Copyright_Free_Music_cbfjgm.mp3", 
-    "album_art": "",
-    "album": "NCS"
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1766573686/p8_bfitsx.png",
+    "album": "OVSKY"
   },
   { 
     "id": 9, 
-    "title": "NCS9", 
-    "artist": "NCS9", 
+    "title": "Safe And Sound", 
+    "artist": "Different Heaven", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1765974834/Different_Heaven_-_Safe_And_Sound_House_NCS_-_Copyright_Free_Music_mgu6cx.mp3", 
-    "album_art": "",
-    "album": "NCS"
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1766573799/p9_jx8aa6.png",
+    "album": "Different Heaven"
   }, 
   { 
     "id": 10, 
-    "title": "NCS10", 
-    "artist": "NCS10", 
+    "title": "Let's Go!", 
+    "artist": "Lensko", 
     "audio_url": "https://res.cloudinary.com/dtonxd82r/video/upload/v1765974834/Lensko_-_Let_s_Go_NCS_Release_euhxdg.mp3", 
-    "album_art": "",
-    "album": "NCS"
+    "album_art": "https://res.cloudinary.com/dtonxd82r/image/upload/v1766573854/p10_uoadpi.png",
+    "album": "Lensko"
   }
 ]
